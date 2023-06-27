@@ -1,5 +1,5 @@
 
-# pip install mlrose in python - if using environments in jupyter you need to make sure 
+# pip install mlrose in python - 
 # 
 import six
 import sys
